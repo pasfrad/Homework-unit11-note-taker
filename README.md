@@ -1,12 +1,15 @@
-
 # Note Taker
 
 ## Table of Contents
 
+- [Picture](#picture)
 - [Description](#description)
 - [License](#license)
 - [Installation](#installation)
 - [Usage](#usage)
+
+## Picture
+![picture of note taker application](./noteTaker.png)
 
 ## Description
 
